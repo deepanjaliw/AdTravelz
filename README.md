@@ -79,12 +79,4 @@ AdTravelz/
 🤝 Contributing
 Contributions are welcome! If you’d like to collaborate, follow these steps:
 
-Fork the repository.
-Create a new branch: git checkout -b feature-name.
-Commit your changes: git commit -m 'Add feature'.
-Push to the branch: git push origin feature-name.
-Submit a pull request.
-📬 Contact
-Aditya Sharma
-Email:adityas191204@gmail.com
-LinkedIn:https://www.linkedin.com/in/aditya-sharma-182651258/
+
